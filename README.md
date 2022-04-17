@@ -1,9 +1,5 @@
 ## Welcome Code Hacker
 
-You can use the [editor on GitHub](https://github.com/Anmol-Tanveer/Crack-the-code-python-game-/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### Game:
 This Game is build to entertain people. You would be given some hints to solve the game to Win.
 
